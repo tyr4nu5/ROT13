@@ -1,0 +1,3 @@
+Hi, I am a text sample.
+I have readable text!
+ABC
